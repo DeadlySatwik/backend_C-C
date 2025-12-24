@@ -1,0 +1,26 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "A concise, consistent structure and conventions to follow for all backend services.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeadlySatwik/backend_C-C.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/DeadlySatwik/backend_C-C/issues"
+  },
+  "homepage": "https://github.com/DeadlySatwik/backend_C-C#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.11",
+    "prettier": "^3.7.4"
+  }
+}
